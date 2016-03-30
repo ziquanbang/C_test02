@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1459302696 source:f:\project\codeblock\c_test02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"List.h"
+	"String.h"
+
+1459302404 source:f:\project\codeblock\c_test02\list.c
+
+1459301568 f:\project\codeblock\c_test02\list.h
+
+1459302696 f:\project\codeblock\c_test02\string.h
+
+1459302860 source:f:\project\codeblock\c_test02\string.c
+
